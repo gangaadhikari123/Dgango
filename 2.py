@@ -21,3 +21,4 @@ print (course_name[3:])# default to end
 # \ escape sequence
 course_name = "Python for \"beginners\""
 print (course_name)
+# \n used for new line
